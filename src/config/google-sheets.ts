@@ -1,0 +1,12 @@
+export const GOOGLE_SHEETS_CONFIG = {
+  spreadsheetId: '1ztsrEWW2GHa3j2uiHbgTZh1A1qhAxkUZBbwPmb9AQPU',
+  sheetName: 'الورقة1',
+  credentials: {
+    type: 'service_account',
+    project_id: 'sonic-momentum-292409',
+    private_key_id: '5b94e204947a343ce9be5206f75e7a5bfe74d0d5',
+    private_key: "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQChsHXGSX/DesgD\nKZoyCKhLQPJi6VNrxss06cAGHQh7N/tyR319RRI5KhF2UghHgiBnpamq60erXVcv\nZFq4Q9k0NSRzI65W/YlAX2Tso/z+yo7h3HiWcn++sDf8vLUtaMdf1O+FiIojJgbE\nUt8td9IFKrdzrTu0xtg5Ze0/Iae7tixpQKq1W6HxrtCasUy9Y/m+oiMHPYXqTc3N\nUelT540YDopydn4Yd+HXX3TYtTfL3+o+/nmj7MHrhmBD+hsQNAHEJU8SpwGsWtLX\nqTkzMCuiqDJ8u+Ef4C1KmywICCOuVH1KuVNEFMZ2Y+C39gxWO0aVOBOF81WW0Pa3\n47dUVDQxAgMBAAECggEAQ04RkINK4EPNW2enbJlm+MBlxV+r3orHTtTYnpLaU3Rn\nwlfY+FrWrZ4B29dk4+NaetqeaGv9DuvRXYRwMRDpKs7OR/F74nEyf23WNJ1EtIj7\n9i/QsIuj+mwfOiERaAAcMhuQwuyl1+C941490Y71iToRWGEtn+A/5JC1s9heGoge\nUXHkmqibXgv5Of26XWRfqqgOCnS6imDpMVwAcjfQxvN55TjsltvfVrV4zO3qLURL\nIXfPg/AeJCF6YueCq5oIHSfasEchlvb0Q2hNqH2S6eM6jyqGmjEoeNavlTL79pag\nbavm1ps7m5tyZxn+ItYUhlvY8Vz1Lpezkic1s4FCuwKBgQDbenrCwz1qWRKABgCN\nwLks5n/AOvSIErWUZWNbFsQNG4219VFY5nyDH5Dl/SPx3hlpKNH2GWfF4+2poMoz\njCjkS6kCsYmPHmCzjb7DSrG2MiO4nznp6d4FXLPKsPTXL/oBqcrRlNLox8gSw9hF\nOB+WWMnoRcn0+HLo4R8VRROj6wKBgQC8mDtepLZScm265afqxFGa0pdLZ1H6DgIW\nzf6531Cn4AxxGxa5TzyjdHlLhOKxP0Qqjx65Ze9KUWe7x+5dqMGi7ZMZJW4J16jk\najSfJLRFq7EM7W+rR0IpoyF1YEQxTE7KUeuIIZ6MtFPgSOWgX2n9YLNfgN/kFUvo\nmGF0esFtUwKBgCYuW3bQUjnS/wXohWYjldM60hSV7P5TCuWi8bLh9f81wORbpegq\nSJTjA+kOrZchBRinMkd2yffCHBE7WJG5G1AD3YYLbpvINBhoWzxMHThN5qrygDey\nKJ6ULu7e8+kPfpWVfSQSmNJIFwU0rsXz6oLUNWPD6EtGgW8D4s1nc/A7AoGAPq3F\nhYXuhmY7a9MpxI+so2z8FXZoO1fuf8/Eqde7QZ/n4qtjGQFpoNVz/pJSmR/yssZQ\nKsPjDGsTs8gVw5DzkgetTL0w3hqLqiZWCNI1C7atKCO9akpLhfUOiKkO4OeAhCNH\nyT2LKS5BdhgkIPG1Ex3RX5tATdh6GvqR4RlvMbsCgYBkJoNqwEc6oxZHYQSSun5z\nqUHBMRjR389p6uF5U0fqytGu/K/MU3miJX+0b+myI17BG9LozXBK3jXvp9GyW1tF\nqYP7qxv8owqSpfG7LWeKAgM7i0YFF17mf92lpQfiGIDRhU5s9t4vJi5OA5mCOEhj\niT6xDULYnBRNfOSam9N5cQ==\n-----END PRIVATE KEY-----\n",
+    client_email: 'id-642@sonic-momentum-292409.iam.gserviceaccount.com',
+    client_id: '116443909497048101654'
+  }
+};
