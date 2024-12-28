@@ -123,5 +123,4 @@ const Display: React.FC = () => {
     </div>
   );
 };
-
 export default Display;
